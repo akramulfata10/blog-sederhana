@@ -1,6 +1,8 @@
 <h1 align="center">Blog Sederhana</h1>
 <hr>
 ini hasil belajar mandiri saya , ya belum begitu sempurna fiturnya , cuma adaa fitur crud liveware , upload image menggunakan laravel media-library , dan menambahkan Ckeditor untuk fitur blog nya .
+
+<br>
 ## Teknologi Laravel Yang Digunakan
 
 Teknologi :
